@@ -1,0 +1,33 @@
+img{
+    border-radius: 100px;
+}
+
+.soloformulario{
+    margin-right: 700px;
+}
+.formulariodisco{
+    margin-left: 5px;
+    padding: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    border: 1px solid rgb(212, 212, 212);
+    background-color: rgb(255, 255, 255);
+    
+}
+
+input[type="text"]:valid, input[type="email"]:valid{
+    color: green;
+}
+
+input[type="text"]:invalid, input[type="email"]:invalid{
+    color: red;
+}
+
+.solologin{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.card-body{
+    background: url("https://giphy.com/gifs/vj-loops-vjloops-vjloop-xTiTnhWKH78TQJffd6");
+}
